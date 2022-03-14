@@ -11,14 +11,14 @@
 // thank you to ALL Bot creator
 // and thanks you to who support my Bot
 
-gc1 = 'https://chat.whatsapp.com/Jxe836o7w9L9EhaYPkyZdV'
-gc2 = ''
-gc3 = ''
+gc1 = 'Coming Soon'
+gc2 = 'https://chat.whatsapp.com/GVVxSLLc0xgGPC1Z7d28SM'
+gc3 = 'https://chat.whatsapp.com/LtXZpY17XjgGFJUM4aWoar'
 global.linkGC = ['https://chat.whats', 'https://chat.whatsap'] // ganti jadi group lu
-global.owner = ['6283822759168'] // Put your number here //owner eval
-global.kontak = ['6283822759168','0'] //Ketika ada yang ngetik #owner
+global.owner = ['6282232051759'] // Put your number here //owner eval
+global.kontak = ['6282232051759','0'] //Ketika ada yang ngetik #owner
 global.mods = ['0'] // Want some help?
-global.prems = ['6283822759168'] // Premium user has unlimited limit
+global.prems = ['6282232051759'] // Premium user has unlimited limit
 global.APIs = { // API Prefix
   // name: 'https://website'
   nrtm: 'https://nurutomo.herokuapp.com', 
@@ -45,22 +45,22 @@ zekskey = 'apivinz'
 xteamkey = 'Dawnfrostkey'
 //xteam        MIMINETBOT
 namaig = 'GAK ADA :)'
-namagithub = 'GAK ADA :)'
-kasihcaption = `Nih kak`
-namakontak1 = 'Andrii Street Moonshine'
-namakontak2 = 'Andrii Street Moonshine'
+namagithub = 'auliacanz'
+kasihcaption = `Nih kak Nomernya Jangan Diculik ya`
+namakontak1 = 'AuliaCanz'
+namakontak2 = 'Elaina-Bot'
 
-//kasihcaption = `Nih Kak`
+//kasihcaption = `Nih Kak Nomernya Jangan Diculik Ya`
 
 // Sticker WM
-global.packname = 'By Andrii Street Moonshine' // ganti aja
-global.author = 'Andrii Street Moonshine' // ganti aja
+global.packname = 'Elaina-Bot' // ganti aja
+global.author = '0881036703002 & 082232051759' // ganti aja
 
 //yyy
-bc = 'RFK' //ANDRIIxBOTZ Broadcast
-footer = '\n©ANDRIIxBOTZ'
-namabot = 'ANDRIIxBOTZ'
-namalu = 'Andrii Street Moonshine'
+bc = 'RFK' //Elaina-Bot Broadcast
+footer = '\n©Elaina-Bot'
+namabot = 'Elaina-Bot'
+namalu = 'AuliaCanz'
 
 
 // 
